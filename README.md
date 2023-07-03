@@ -25,6 +25,14 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </div>
 
+  <div align="center">
+  <h1> Hobbies </h1>
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Plex-EBAF00?style=for-the-badge&logo=plex&logoColor=white">
+  <img src="https://img.shields.io/badge/DnD-ED1C24?style=for-the-badge&logo=dungeonsanddragons&logoColor=white">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+  </div>
 <!---
 signalSurfer/signalSurfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
