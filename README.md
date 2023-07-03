@@ -3,7 +3,8 @@
   <img width="30%" height="30%" style="border-radius: 50%;" src="https://media1.giphy.com/media/eCwAEs05phtK/giphy.gif?cid=ecf05e471h0p9o6u53h8aum1hto1so6ggt3xfz7hrk7hzb3k&ep=v1_gifs_search&rid=giphy.gif&ct=g"></div>
 <div align="center">  
 🌱 I’m currently learning C,R, and more Python </br>
-💞️ I’m looking to collaborate on something new
+💞️ I’m looking to collaborate on something new </br>
+🧠 Lifelong learner, and serial-hobbyist </br>
 </div>
 <h1 align="center"> Social </h1>
 <div align="center">
