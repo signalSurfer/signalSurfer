@@ -1,4 +1,10 @@
-<img src="https://giphy.com/gifs/world-computer-eCwAEs05phtK">
+<div align="center">
+  <h1>👋 Hi, I’m @signalSurfer</h1>
+  <img width="30%" height="30%" style="border-radius: 50%;" src="https://media1.giphy.com/media/eCwAEs05phtK/giphy.gif?cid=ecf05e471h0p9o6u53h8aum1hto1so6ggt3xfz7hrk7hzb3k&ep=v1_gifs_search&rid=giphy.gif&ct=g"></div>
+<div align="center">  
+🌱 I’m currently learning C,R, and more Python </br>
+💞️ I’m looking to collaborate on something new
+</div>
 <h1 align="center"> Social </h1>
 <div align="center">
 <a href="https://github.com/signalSurfer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -16,11 +22,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </div>
-  
-- 👋 Hi, I’m @signalSurfer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C,R, and more Python
-- 💞️ I’m looking to collaborate on something new
+
 <!---
 signalSurfer/signalSurfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
