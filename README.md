@@ -4,7 +4,7 @@
 <div align="center">  
 🦾 I’m currently working in AI/ML. </br>
 🧠 Lifelong learner, and serial-hobbyist </br>
-🎛️ Optimizing workflow and life </div>br
+🎛️ Optimizing workflow and life </br>
 </div>
 <h1 align="center"> Social </h1>
 <div align="center">
